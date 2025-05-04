@@ -1,12 +1,14 @@
 p {
     color: green;
-    background-color: red;
+    background-color: black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
+    display: inline;
 }
 
 h1 {
-    color: green;
+    display: inline;
+    color: red;
     background-color: red;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
