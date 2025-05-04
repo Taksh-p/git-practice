@@ -7,6 +7,16 @@ if (tagValue)
 else
     console.log("The Tag hase does not have any value");
 
+// if (tagValue)
+//     console.log("The Tag value is::: ", tagValue);
+// else
+//     console.log("The Tag hase does not have any value");
+
+if (tagValue)
+    console.log("The Tag value is::: ", tagValue);
+else
+    console.log("The Tag hase does not have any value");
+
 
 
 
